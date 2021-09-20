@@ -1,21 +1,22 @@
-						<> DATA STRUCTURE & ALGORITHMS <>
-				     			Content Of Glance
-			   			   With : Samiur Rahman Mukul
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                <> DATA STRUCTURE & ALGORITHMS <>
+                                        Content Of Glance
+                                   With : Samiur Rahman Mukul
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Basic of C Programming & Pointer, Structure, Recurtion, Typedef, Micro-defenation in C Programming
-2. What's is Data Structure & Algotithms
-3. Linear Data Structure :
+#1. Basic of C Programming, Pointer, Structure, Recursion, Typedef & Micro-definition in C Programming.
+#2. What's is Data Structure & Algorithms ?
+
+#3. Linear Data Structure :
 	3.1: Array
 			3.1.1: What's Array & Types of Array
-			3.1.2: Static & Dynamic Array declare & intialize
+			3.1.2: Static & Dynamic Array declare & initialize
 
 			3.1.3: Array Operation
 				1. Traverse
 				2. Insertion
 				3. Deletion
 				4. Searching
-				5. Sortiong
+				5. Sorting
 				6. Find Length
 				7. Reverse
 				8. Restored
@@ -45,64 +46,64 @@
 	3.2: LinkedList
 		3.2.1: What's LinkedList & Type of LinkedList
 		3.2.2: Array Vs LinkedList
-		3.2.3: LinkedList declare & intialize
+		3.2.3: LinkedList declare & initialize
 
 		3.2.4: Single LinkedList operation
-			1. Implentaion Or Creation
+			1. Implantation Or Creation
 			2. Traverse
 			3. Insertion
 					3.1: Insertion at Last-position
 					3.2: Insertion at First-position
-					3.3. Insertion at Seecific-position
+					3.3. Insertion at Specific-position
 			4. Deletion
 					4.1: Delete at Last-position
 					4.2: Delete at First-position
-					4.3. Delete at Seecific-position
+					4.3. Delete at Specific-position
 			5. Find LinkedList length
 			6. Reverse
 			7. Restored
 
 		3.2.5: Double LinkedList operation
-			1. Implentaion Or Creation
+			1. Implantation Or Creation
 			2. Traverse
 			3. Insertion
 					3.1: Insertion at Last-position
 					3.2: Insertion at First-position
-					3.3. Insertion at Seecific-position
+					3.3. Insertion at Specific-position
 			4. Deletion
 					4.1: Delete at Last-position
 					4.2: Delete at First-position
-					4.3. Delete at Seecific-position
+					4.3. Delete at Specific-position
 			5. Find LinkedList length
 			6. Reverse
 			7. Restored
 
 		3.2.6: Circular LinkedList operation
-			1. Implentaion Or Creation
+			1. Implantation Or Creation
 			2. Traverse
 			3. Insertion
 					3.1: Insertion at Last-position
 					3.2: Insertion at First-position
-					3.3. Insertion at Seecific-position
+					3.3. Insertion at Specific-position
 			4. Deletion
 					4.1: Delete at Last-position
 					4.2: Delete at First-position
-					4.3. Delete at Seecific-position
+					4.3. Delete at Specific-position
 			5. Find LinkedList length
 			6. Reverse
 			7. Restored
 
 		3.2.7: Double Circular LinkedList operation
-			1. Implentaion Or Creation
+			1. Implantation Or Creation
 			2. Traverse
 			3. Insertion
 					3.1: Insertion at Last-position
 					3.2: Insertion at First-position
-					3.3. Insertion at Seecific-position
+					3.3. Insertion at Specific-position
 			4. Deletion
 					4.1: Delete at Last-position
 					4.2: Delete at First-position
-					4.3. Delete at Seecific-position
+					4.3. Delete at Specific-position
 			5. Find LinkedList length
 			6. Reverse
 			7. Restored
@@ -111,10 +112,10 @@
 		3.3.1: Introduction Stack
 			1. Rules of Stack
 			2. Operation of Stack
-			3. Memory alocation of Stack
+			3. Memory allocation of Stack
 			4. Application of Stack
 
-		3.3.2: Implemetation Stack using Array
+		3.3.2: Implementation Stack using Array
 			1. push()
 			2. pop()
 			3. peek()
@@ -133,12 +134,12 @@
 
 			3.3.4.2: Infix to Postfix
 					1. Infix to Postfix conversation rules
-					2. Infix to Postfix implementaion using Stack
+					2. Infix to Postfix implementation using Stack
 					3. Infix to Postfix conversation
 
 			3.3.4.3: Infix to Prefix
 					1. Infix to Postfix conversation
-					2. Infix to Postfix implementaion using Stack
+					2. Infix to Postfix implementation using Stack
 
 			3.3.4.4: Evaluation expression
 					1. Evaluation of Prefix expression
@@ -146,24 +147,24 @@
 
 			3.3.4.5: Postfix to Infix
 					1. Postfix to Infix conversation
-					2. Postfix to Infix implementaion using Stack
+					2. Postfix to Infix implementation using Stack
 
 			3.3.4.6: Prefix to Infix
 					1. Prefix to Infix conversation
-					2. Prefix to Infix implementaion using Stack
+					2. Prefix to Infix implementation using Stack
 
 		3.3.5: Binary Expression Tree
 					1. Rules of Binary Expression Tree
-					2. Implemetation Binary Expression Tree
+					2. Implementation Binary Expression Tree
 
 	3.4: Queue
-		3.4.1: Introduaction to Queue
+		3.4.1: Introduction to Queue
 			1. Rules of Queue
 			2. Operation of Queue
 			3. Application of Queue
 
-		3.4.2: Implementaion Queue
-			3.4.2.1: Implementaion Queue using Array
+		3.4.2: Implementation Queue
+			3.4.2.1: Implementation Queue using Array
 					1. enquee()
 					2. dequee()
 					3. font() / peek()
@@ -173,32 +174,32 @@
 					7. display()
 					8. main()
 
-			3.4.2.2: Implementaion Queue using LinkedList
+			3.4.2.2: Implementation Queue using LinkedList
 				1. enquee()
 				2. dequee()
 				3. font() / peek()
 				4. display()
 				5. main()
 
-		3.4.3: Circular Queue Implementaion
-			3.4.3.1: Circular Queue Implementaion using Array
+		3.4.3: Circular Queue Implementation
+			3.4.3.1: Circular Queue Implementation using Array
 				1. enquee()
 				2. dequee()
 				3. font() / peek()
 				4. display()
 				5. main()
 
-			3.4.3.2: Circular Queue Implementaion using LinkedList
+			3.4.3.2: Circular Queue Implementation using LinkedList
 				1. enquee()
 				2. dequee()
 				3. font() / peek()
 				4. display()
 				5. main()
 
-		3.4.4: Implementaion Queue using Stack
-			3.4.4.1: Queue implentaion using Stack rules
-			
-			3.4.4.2: Operation / Implementaion
+		3.4.4: Implementation Queue using Stack
+			3.4.4.1: Queue implantation using Stack rules
+
+			3.4.4.2: Operation / Implementation
 				1. push1()
 				2. Push2()
 				3. pop1()
@@ -209,24 +210,26 @@
 				8. main()
 
 		3.4.5: Deque (Double Ended Queue)
-			3.4.5.1 : Introducation Deque
+			3.4.5.1 : Introduction Deque
 				1. Rules of Deque
-				2. Multiprocessor Scheding
+				2. Multiprocessor Scheduling
 				3. Operation of Deque
 					1. insertFont()
 					2. insertRear()
 					3. deleteFont()
 					4. deleteRear()
 
-			3.4.5.2: Implementaion of Deque
+			3.4.5.2: Implementation of Deque
 				1. enqueFont()
 				2. enqueRear()
-				3. getFont()	
+				3. getFont()
 				4. dequeFont()
 				5. dequeRear()
 				6. display()
 				7. main()
 
-4. Non-Linear Data Structure
+#4. Non-Linear Data Structure
 	4.1: Tree
 	4.2: Graph
+
+				</> HAPPY PROGRAMMING 😀 & I LOVE PROGRAMMING 💖 </>
