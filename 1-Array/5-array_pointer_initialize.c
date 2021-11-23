@@ -9,7 +9,7 @@ int main()
     for (i=0; i<5; i++)
     {
         printf("Enter elements of a[%d] : ", i+1);
-        /// scanf("%d", &a[i]);
+        // scanf("%d", &a[i]);
         scanf("%d", &q[i]); /// if replace same output
     }
 
