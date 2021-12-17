@@ -123,7 +123,7 @@
   </ul>
 
   <p align="center">
-    <img src="assets\images\data-structure-algorithm-tree.jpg" title=Data Structure & Algorithm Tree" alt="data-structure-algorithm-tree-image" />
+    <img src="assets\images\data-structure-algorithm-tree.jpg" title="Data Structure & Algorithm Tree" alt="data-structure-algorithm-tree-image" />
   </p>
 </article>
 
