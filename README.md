@@ -8,7 +8,7 @@
 [![Github][github-shield]][github-url]
 
 <p align="center">
-  <img src="assets/images/data-structure-algorithm-banner.jpeg" title="Data Structure And Algorithm Banner With Samiur Rahman Mukul" alt="data-structure-and-algorithm-banner" width="100%" height="450" style="border: 1px solid #000; border-radius: 5px; padding: 5px;" />
+  <img src="assets/images/data-structure-algorithm-banner.jpeg" title="Data Structure And Algorithm Banner With Samiur Rahman Mukul" alt="data-structure-and-algorithm-banner" width="100%" style="border: 1px solid #000; border-radius: 5px; padding: 5px;" />
 </p>
 
 # Data Structure & Algorithm with C Programming Language
@@ -28,7 +28,7 @@
   <p>Data structures store objects and allow their manipulation on the basis of two different types:</p>
 
   <p align="center">
-    <img src="assets\images\data-structure-types.png" title="Type Of Data Structure" alt="data-structure-types-image" />
+    <img src="assets\images\types-of-data-structure.png" title="Types Of Data Structure" alt="data-structure-types-image" />
   </p>
 </article>
 
@@ -41,7 +41,7 @@
   <p>Let’s take a simple example of GPS. When you search a location, GPS uses an algorithm to search for multiple available routes, also for checking the current traffic GPS uses a different algorithm, based on the collective information it provides the best available route for you. All these algorithms are in-built&nbsp; &nbsp;into the GPS’ code. So, if there is any error in the code of GPS, it won’t function correctly, thus provide incorrect direction. Computers use algorithms to calculate things much faster than the humans.</p>
 
   <p align="center">
-    <img src="assets\images\algorithm-image.png" title="Algorithms Every Programmer Must Know" alt="algorithm-image"  />
+    <img src="assets\images\algorithm-image.png" title="Algorithms Every Programmer Must Know" alt="algorithm-image" />
   </p>
 </article>
 
@@ -64,7 +64,7 @@
   </ul>
 
   <p align="center">
-    <img src="assets\images\relation-data-structure-algorithm.jpg" title="Relation Between Data Structure & Algorithm" alt="data-structure-algorithm-relation-image" />
+    <img src="assets\images\relation-with-data-structure-algorithm.jpg" title="Relation Between Data Structure & Algorithm" alt="data-structure-algorithm-relation-image" />
   </p>
 </article>
 
@@ -75,7 +75,7 @@
   <p>Data structures and algorithms are the most pivotal topics for programmers and Computer Science graduates, to get a job &amp; perform well in it. Here are some considerable reasons to learn data structures and algorithms:</p>
 
   <p align="center">
-    <img src="assets\images\why-data-structures-algorithms-are-important-to-learn.png" title="Why Importance to Data Structure & Algorithm" alt="data-structure-algorithm-important-to-learn-image" height="400px" />
+    <img src="assets\images\importance-of-data-structure-and-algorithm-to-learn.png" title="Why Importance to Data Structure & Algorithm" alt="data-structure-algorithm-important-to-learn-image" width="80%" />
   </p>
 
   <ul>
@@ -220,12 +220,14 @@
 
 <!-- article of conclusion -->
 <article align="justify">
-  <h3>Conclusion</h3>
+  <h3>Conclusion Of Data Structure & Algorithm</h3>
 
   <p>The technology will only be going to become better at what it does as long as programming &amp; coding continues to flourish. Therefore, the importance of data structures and algorithms will remain persistence for the functioning of technologies, navigating what they do &amp; how they do it.</p>
 </article>
 
-                              </> HAPPY PROGRAMMING 😀 & I LOVE PROGRAMMING 💖 </>
+<footer align="center">
+  <strong> HAPPY PROGRAMMING 😀 & I LOVE PROGRAMMING 💖 </strong>
+</footer>
 
 <!-- my website & social media links -->
 
