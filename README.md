@@ -225,9 +225,9 @@
   <p>The technology will only be going to become better at what it does as long as programming &amp; coding continues to flourish. Therefore, the importance of data structures and algorithms will remain persistence for the functioning of technologies, navigating what they do &amp; how they do it.</p>
 </article>
 
-<footer align="center">
+<p align="center">
   <strong> HAPPY PROGRAMMING 😀 & I LOVE PROGRAMMING 💖 </strong>
-</footer>
+</p>
 
 <!-- my website & social media links -->
 

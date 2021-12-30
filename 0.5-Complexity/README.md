@@ -78,6 +78,6 @@ Here, A program complexity count `BigO notation`. That means, `O(1) / Order of 1
    */
 ```
 
-<footer align="center">
+<p align="center">
   <strong> HAPPY PROGRAMMING 😀 & I LOVE PROGRAMMING 💖 </strong>
-</footer>
+</p>
