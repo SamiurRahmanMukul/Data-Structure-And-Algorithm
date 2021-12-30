@@ -6,8 +6,7 @@
 
 #include<stdio.h>
 
-int main()
-{
+int main() {
     int arr[50];
     int siz, num, pos, i;
 
@@ -15,15 +14,13 @@ int main()
     scanf("%d", &siz);
 
     // getting user input for this array
-    for (i=0; i<siz; i++)
-    {
+    for (i=0; i<siz; i++) {
         printf("Enter element of arr[%d] : ", i+1);
         scanf("%d", &arr[i]);
     }
 
     // printing original array elements
-    for (i=0; i<siz; i++)
-    {
+    for (i=0; i<siz; i++) {
         printf("\n\t arr[%d] = %d", i+1, arr[i]);
     }
 
@@ -34,15 +31,11 @@ int main()
     scanf("%d", &pos);
 
     // check user input array position validation
-    if (pos <= 0 || pos >= siz+1)
-    {
+    if (pos <= 0 || pos >= siz+1) {
         printf("\n\tInvalid Position!\n");
-    }
-    else
-    {
+    } else {
         // empty set user define position
-        for (i=siz-1; i>=pos-1; i--)
-        {
+        for (i=siz-1; i>=pos-1; i--) {
             arr[i+1] = arr[i];
         }
 
@@ -50,8 +43,7 @@ int main()
         siz++;
 
         // inserted array elements print
-        for (i=0; i<siz; i++)
-        {
+        for (i=0; i<siz; i++) {
             printf("\n\t arr[%d] = %d", i+1, arr[i]);
         }
         printf("\n");
