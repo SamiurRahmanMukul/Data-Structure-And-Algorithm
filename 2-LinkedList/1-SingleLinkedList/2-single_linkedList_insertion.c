@@ -137,5 +137,6 @@ void traverseElements() {
         temp = temp -> next;
         count ++;
     }
+    printf("\n\t Linked elements of [%d] = %d", count+1, temp -> data);
     printf("\n");
 }
